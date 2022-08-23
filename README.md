@@ -1,8 +1,8 @@
 # Hi, welcome to my profile ☕
 
 - 👤 17 years old
-- 💻 Currently studying Systems Development
-- 🎬 I'm studying about inteligence artificial and robots. I hope to work or study abroad (Brazil)
+- 💻 Currently studying Systems Development and living in Brazil
+- 🎬 I'm studying about inteligence artificial and robots. I hope to work or study abroad 
 - 💬 I have inglish intermmediary and starting japanese N4  
 - 📞 If you want to know more about me, get in touch!
 
