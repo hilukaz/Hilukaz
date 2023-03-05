@@ -2,7 +2,8 @@
 
 - 👤 17 years old
 - 💻 Currently studying Systems Development and living in Brazil
-- 🎬 I'm studying about inteligence artificial and robots. I hope to work or study abroad 
+- 🎬 I'm back-end developer and i use nodejs like technology but I have a 
+interest in working to work with inteligence artificial and robots 
 - 💬 I have inglish intermmediary and starting japanese N4  
 - 📞 If you want to know more about me, get in touch!
 
