@@ -1,6 +1,6 @@
 # Hi, welcome to my profile ☕
 
-- 👤 17 years old
+- 👤 19 years old
 - 💻 Currently studying Systems Development and living in Brazil
 - 🎬 I'm back-end developer and i use nodejs like technology but I have a 
 interest in working to work with inteligence artificial and robots 
